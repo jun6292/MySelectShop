@@ -16,9 +16,13 @@
 - 페이징 및 정렬
 - 관리자: 회원 관심 등록 상품 전체 조회
 
-### Deploy
+### Deploy (현재 서버 내림)
 - AWS EC2
 - AWS RDS
+
+### CI/CD
+- AWS ECS, AWS ECR
+- Github Actions
 
 ### Running Time 🔥
 - 8 Hours
