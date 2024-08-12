@@ -1,4 +1,6 @@
-*.yml
+application-dev.yml
+application-local.yml
+application.yml
 
 HELP.md
 .gradle
