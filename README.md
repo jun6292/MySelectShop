@@ -21,7 +21,7 @@
 - AWS RDS
 
 ### CI/CD
-- AWS ECS, AWS ECR
+- AWS ECS, ECR
 - Github Actions
 
 ### Running Time 🔥
